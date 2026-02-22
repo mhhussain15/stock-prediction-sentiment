@@ -126,3 +126,6 @@ def run():
             st.error("Strong Bearish Sentiment 📉")
         else:
             st.warning("Mixed / Neutral Sentiment")
+            
+if __name__ == "__main__":
+    run()
