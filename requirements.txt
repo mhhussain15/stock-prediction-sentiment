@@ -3,5 +3,3 @@ pandas
 requests
 vaderSentiment
 plotly
-yfinance
-tensorflow
